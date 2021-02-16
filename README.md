@@ -7,6 +7,10 @@
 <br>
 希望能与大家一同进步，青春无悔热爱！<br>
 <br>
+https://github-readme-stats.vercel.app/api?username=akashipark&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true
+<br>
+https://github-readme-stats.vercel.app/api/top-langs?username=akashipark&theme=algolia&locale=cn
+<br>
 我的博客：https://yesalan.top<br>
 <br>
 感谢你的访问呀~
